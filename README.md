@@ -11,7 +11,7 @@
   </a>
 </div>
 <br/>
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
 
 **About me**
 
@@ -28,13 +28,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HosseinIT github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinit1988&repo=github-readme-stats&theme=buefy" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinit1988&repo=anuraghazra.github.io&theme=buefy" />
 
