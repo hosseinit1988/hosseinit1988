@@ -15,7 +15,7 @@ I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
 
 **About me**
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing TypeScript,Shell, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/hosseinit1988/hosseinit1988/issues)
 
