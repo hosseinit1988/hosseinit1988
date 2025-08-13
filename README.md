@@ -3,6 +3,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinit1988&theme=radical" alt="hosseinit1988 GitHub Contribution"/>
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
+</picture>
 <div align="center">
     <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&hide=contribs,issues&show_icons=true&theme=radical" alt="My GitHub stats">
