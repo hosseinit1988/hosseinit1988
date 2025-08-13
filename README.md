@@ -3,7 +3,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinit1988&theme=radical" alt="hosseinit1988 GitHub Contribution"/>
   </a>
 </p>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
@@ -38,4 +37,5 @@ I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HosseinIT github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
 
