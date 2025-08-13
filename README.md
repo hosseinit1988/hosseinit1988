@@ -3,7 +3,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinit1988&theme=radical" alt="hosseinit1988 GitHub Contribution"/>
   </a>
 </p>
-<img align="center" width="15%" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
