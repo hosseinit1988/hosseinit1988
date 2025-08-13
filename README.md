@@ -16,7 +16,7 @@
 <br>
     
 <div align="center">
- <img  align="right" with="25%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
+ <img  align="right" with="50px" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
 </div>
 <br/>
 I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
