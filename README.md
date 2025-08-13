@@ -16,9 +16,7 @@
 <br>
     
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=donut&theme=radical" alt="My Top Langs">
-  </a>
+ <img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
 </div>
 <br/>
 I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
