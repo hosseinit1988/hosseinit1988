@@ -1,6 +1,4 @@
-<p align="center">
-![](./profile-night-rainbow.svg)
-</p>
+![](profile-night-rainbow.svg)
 <p align="center">
   <a href="https://github.com/hosseinit1988">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinit1988&theme=radical" alt="hosseinit1988 GitHub Contribution"/>
