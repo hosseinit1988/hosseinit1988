@@ -39,5 +39,4 @@ I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HosseinIT github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
-<img align="center" src="https://streak-stats.demolab.com?user=hosseinit1988&theme=blue-green" alt="GitHub Streak" />
 
