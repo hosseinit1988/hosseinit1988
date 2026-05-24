@@ -1,42 +1,65 @@
-![](profile-night-rainbow.svg)
+<h1 align="center">Hi 👋, I'm Hossein Shourgashti</h1>
+<h3 align="center">A self-taught front-end developer & Linux enthusiast from Iran</h3>
+
 <p align="center">
-  <a href="https://github.com/hosseinit1988">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinit1988&theme=radical" alt="hosseinit1988 GitHub Contribution"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hosseinit1988&label=Profile%20Views&color=0e75b6&style=flat" alt="hosseinit1988" />
+  <img src="https://img.shields.io/github/followers/hosseinit1988?label=Follow&style=social" alt="GitHub followers" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
-</picture>
-<div align="center">
-    <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&hide=contribs,issues&show_icons=true&theme=radical" alt="My GitHub stats">
-</div>
 
-<br>
-    
-<div align="center">
- <img  align="right" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-</div>
-<br/>
-I'm A Self-taught Passionate FrontEnd Developer from Iran ^_^
+---
 
-**About me**
+### 🧑‍💻 About me
 
-- ❤️ I love writing TypeScript,Shell, and building fun experiments on type-level
+- ❤️ I love writing **TypeScript**, **Shell**, and building fun experiments at type-level  
+- 💬 Ask me about **Front-end**, **DNS**, **Linux networking**, or **Cloudflare**  
+- 🌍 Currently living in **Iran** – working with servers at **Hetzner (Nuremberg)**  
+- 🕐 Local time: UTC+3:30 (Iran) / Server timezone: UTC+2 (Nuremberg)  
 
-- 💬 Ask me about anything [here](https://github.com/hosseinit1988/hosseinit1988/issues)
-- <a href="https://github.com/hosseinit1988?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
-  
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
+### 🛠️ Languages & Tools
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HosseinIT github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nginx,postgresql,git" />
+</p>
 
+| Category             | Tech stack                                                                 |
+|----------------------|----------------------------------------------------------------------------|
+| **Frontend**         | TypeScript, Next.js, React, HTML5, CSS3, Tailwind                          |
+| **Scripting & Shell**| Bash, Shell scripting, Python                                              |
+| **Database**         | SQL (PostgreSQL, MySQL)                                                    |
+| **Network & Security**| DNS, Cloudflare, VXLAN, Systemd-Resolved, iptables                         |
+| **Version control**  | Git, GitHub                                                                |
+
+---
+
+### 📌 Pinned Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**DNS-Master-Pro**](https://github.com/hosseinit1988/DNS-Master-Pro) | Advanced DNS Manager for Ubuntu 20+ – 30+ providers, DoT, custom DNS | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
+| [**CFScanner-HosseinIT**](https://github.com/hosseinit1988/CFScanner-HosseinIT) | CloudFlare scanner – save all online IPs (Windows & Linux) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [**Ubuntu-Repository-iran**](https://github.com/hosseinit1988/Ubuntu-Repository-iran) | بهترین سرور مخازن اوبونتو برای سرورهای ایران | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
+| [**HosseinIT.Tunnel**](https://github.com/hosseinit1988/HosseinIT.Tunnel) | VXLAN tunnel implementation | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
+| [**personal-portfolio-nextjs**](https://github.com/hosseinit1988/personal-portfolio-nextjs) | Modern personal portfolio website with Next.js | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=radical" alt="Top languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+- Telegram: [@Hossein_iritp](https://t.me/Hossein_iritp)  
+- GitHub: [hosseinit1988](https://github.com/hosseinit1988)
+
+---
+
+⭐️ **From [hosseinit1988](https://github.com/hosseinit1988)**
