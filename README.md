@@ -20,11 +20,13 @@
 
 ### 🧑‍💻 About me
 
-- ❤️ I love writing **TypeScript**, **Shell**, and building fun experiments on type-level
-- 💬 Ask me about anything [here](https://t.me/Hossein_iritp)
-- 🌍 From **Iran** – Web Designer | SQL Administrator | Network Security
-- 🖥️ Live In Linux – Self-taught Passionate Front-End Developer
-- 📍 Working with **Hetzner** servers (Nuremberg – UTC+2)
+```diff
++ Web Designer | SQL Administrator | Network Security
++ Self-taught passionate Front-End Developer from Iran ^_^
++ I love writing TypeScript, Shell, and building fun experiments on type-level
+! Currently working with Hetzner servers (Nuremberg – UTC+2)
+- Ask me about anything: @Hossein_iritp
+```
 
 ---
 
@@ -55,21 +57,20 @@
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**DNS-Master-Pro**](https://github.com/hosseinit1988/DNS-Master-Pro) | 🚀 Advanced DNS Manager - 30+ providers, DoT, Custom DNS | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
-| [**CFScanner-HosseinIT**](https://github.com/hosseinit1988/CFScanner-HosseinIT) | ☁️ CloudFlare scanner – save all online IPs (Windows & Linux) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**Ubuntu-Repository-iran**](https://github.com/hosseinit1988/Ubuntu-Repository-iran) | 🇮🇷 تنظیم بهترین سرور مخازن اوبونتو برای سرورهای ایران | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
+| [**CFScanner-HosseinIT**](https://github.com/hosseinit1988/CFScanner-HosseinIT) | ☁️ CloudFlare scanner – save all online IPs | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [**Ubuntu-Repository-iran**](https://github.com/hosseinit1988/Ubuntu-Repository-iran) | 🇮🇷 بهترین سرور مخازن اوبونتو برای ایران | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
 | [**HosseinIT.Tunnel**](https://github.com/hosseinit1988/HosseinIT.Tunnel) | 🔐 VXLAN Tunnel implementation | ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) |
-| [**personal-portfolio-nextjs**](https://github.com/hosseinit1988/personal-portfolio-nextjs) | 🎨 Personal portfolio website with Next.js | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [**personal-portfolio-nextjs**](https://github.com/hosseinit1988/personal-portfolio-nextjs) | 🎨 Personal portfolio with Next.js | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats (نسخه پایدار برای ایران)
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://img.shields.io/github/stars/hosseinit1988?style=for-the-badge&logo=github&label=Total%20Stars&color=2F81F7" />
+  <img src="https://img.shields.io/github/followers/hosseinit1988?style=for-the-badge&logo=github&label=Followers&color=2F81F7" />
+  <img src="https://img.shields.io/github/last-commit/hosseinit1988/hosseinit1988?style=for-the-badge&logo=github&label=Last%20Update&color=2F81F7" />
 </p>
-
-> 💡 اگر آمار نمایش داده نشد، به خاطر محدودیت‌های اینترنت ایران است. می‌توانید از [این راهنما](https://github.com/anuraghazra/github-readme-stats) برای راه‌اندازی نسخه شخصی استفاده کنید.
 
 ---
 
