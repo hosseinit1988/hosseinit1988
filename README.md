@@ -36,22 +36,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="30" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb51583fc16cf/topics/nextjs/nextjs.png"></code>
-  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="30" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="30" alt="css3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="30" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8859a099f382faca806cf5/topics/tailwind/tailwind.png"></code>
-</p>
-
-<p align="center">
-  <code><img height="30" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="30" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="30" alt="nginx" src="https://raw.githubusercontent.com/github/explore/85c9a09f2125bc249f1cd8cfb4f8e2b8c8aa0b38/topics/nginx/nginx.png"></code>
-  <code><img height="30" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind&theme=dark&perline=7" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=bash,python,linux,nginx,postgresql,git&theme=dark&perline=7" />
 </p>
 
 <p align="center">
@@ -75,16 +62,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (نسخه ساده و پایدار)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinit1988&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="HosseinIT github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinit1988&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hosseinit1988?style=for-the-badge&logo=github&label=Total%20Stars&color=2F81F7" />
+  <img src="https://img.shields.io/github/followers/hosseinit1988?style=for-the-badge&logo=github&label=Followers&color=2F81F7" />
+  <img src="https://img.shields.io/github/last-commit/hosseinit1988/hosseinit1988?style=for-the-badge&logo=github&label=Last%20Update&color=2F81F7" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hosseinit1988&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/📦%20Total%20Repos-9-2F81F7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/📅%20Joined-Dec%202022-2F81F7?style=for-the-badge" />
+</p>
 
 ---
 
